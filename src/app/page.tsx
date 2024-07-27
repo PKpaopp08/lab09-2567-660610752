@@ -75,7 +75,7 @@ export default function Home() {
         ))}
       </div>
 
-      <Footer year="2024" fullName="Yutthakarn Sajui" studentId="660610787" />
+      <Footer year="2024" fullName="Natthachai Bubpa" studentId="660610752" />
     </div>
   );
 }
